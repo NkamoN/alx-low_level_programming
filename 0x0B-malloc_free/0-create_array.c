@@ -2,7 +2,7 @@
 #include <stdlib.h>
 		
 /**
- * create_array - Function creates an array  of charts
+ * create_array - Function creates an array  of chars
  * @size: size of array
  * @c: char to assign
  * Description: create array of size size and assign char c
