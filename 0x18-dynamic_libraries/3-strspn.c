@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strspn - Function compares values
+ * _strspn - Entry point
  * @s: input
  * @accept: input
  * Return: Always 0 (Success)
