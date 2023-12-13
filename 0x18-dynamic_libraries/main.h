@@ -1,6 +1,7 @@
 #ifndef MAIN_HEADER
 #define MAIN_HEADER
 
+
 int _putchar(char c);
 int _islower(int c);
 int _isalpha(int c);
@@ -22,4 +23,5 @@ unsigned int _strspn(char *s, char *accept);
 char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
 
-#endif /*MAIN_HEADER_FILE*/
+
+#endif 
